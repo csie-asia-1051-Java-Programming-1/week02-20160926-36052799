@@ -11,9 +11,7 @@ public class hw02_1050210XX {
 		int b = scn.nextInt();
 		
 		if (s==1){
-			System.out.print((b-80)*0.7);}
-		else if (s==1){
-			System.out.print((h-80)*0.7);}
-        	else if(s==2){
-        		System.out.print((h-70)*0.6);}}}
+			System.out.print((b-80)*0.7);
+        	        else if(s==2){
+        		System.out.print((b-70)*0.6);}}}
 
